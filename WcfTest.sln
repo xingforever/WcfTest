@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ibll", "Ibll\Ibll.csproj", "{CAE5E7FD-6BFD-4BBF-BBD6-07A14B144314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bll", "bll\bll.csproj", "{302BA146-138E-4F7E-ACDB-052924C7A3A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLL", "HLL\HLL.csproj", "{09ABC975-EEED-403C-AF39-27B397956A2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE5E7FD-6BFD-4BBF-BBD6-07A14B144314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE5E7FD-6BFD-4BBF-BBD6-07A14B144314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE5E7FD-6BFD-4BBF-BBD6-07A14B144314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE5E7FD-6BFD-4BBF-BBD6-07A14B144314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302BA146-138E-4F7E-ACDB-052924C7A3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302BA146-138E-4F7E-ACDB-052924C7A3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302BA146-138E-4F7E-ACDB-052924C7A3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302BA146-138E-4F7E-ACDB-052924C7A3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09ABC975-EEED-403C-AF39-27B397956A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09ABC975-EEED-403C-AF39-27B397956A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09ABC975-EEED-403C-AF39-27B397956A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09ABC975-EEED-403C-AF39-27B397956A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
